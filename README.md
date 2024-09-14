@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-end developer
 ------------------
 
-study golang and c#, I'm studying at university, I'm eager to become a back-end developer and would like to see like-minded people.
-
 * 🌍  I'm based in Tomsk
 * ✉️  You can contact me at [rubon.koko@gmail.com](mailto:rubon.koko@gmail.com)
 
